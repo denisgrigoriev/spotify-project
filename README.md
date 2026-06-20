@@ -2,3 +2,6 @@
 In this project i will be using the spotify API to pull currently playing songs.
 to display these songs i will be using a 1.8" TFT display.
 and to skip, play, pause, or go back i would be using tactile switches.
+
+Here is a photo from fusion360:
+![Fusion 360 photo](https://raw.githubusercontent.com/denisgrigoriev/spotify-project/main/image.png)
