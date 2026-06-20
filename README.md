@@ -4,4 +4,7 @@ to display these songs i will be using a 1.8" TFT display.
 and to skip, play, pause, or go back i would be using tactile switches.
 
 Here is a photo from the coding process:
-![Fusion 360 photo](https://raw.githubusercontent.com/denisgrigoriev/spotify-project/main/image.png)
+![code](https://raw.githubusercontent.com/denisgrigoriev/spotify-project/main/image.png)
+
+And Cad work:
+![Spotify CAD Design](https://raw.githubusercontent.com/denisgrigoriev/spotify-project/main/cad%20design.png)
