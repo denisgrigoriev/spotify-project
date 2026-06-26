@@ -3,6 +3,10 @@ In this project i will be using the spotify API to pull currently playing songs.
 to display these songs i will be using a 1.8" TFT display.
 and to skip, play, pause, or go back i would be using tactile switches.
 
+Wiring diagram:
+<img width="3024" height="4032" alt="IMG_4031" src="https://github.com/user-attachments/assets/a02b2b14-97c7-4183-b929-dde9aaef4c2b" />
+
+
 | Name | Purpose | QTY | Total (USD) | Link | Distrubutor |
 |:-----|:--------|----:|:-----------|:-----|:------------|
 | 100 Pcs M3 Heat Set Threaded Inserts, Brass Knurled Insert Nuts for Plastic, M3 Internal Thread Fasteners Kit for 3D Printing, Model Making, DIY Plastic Components | Used to hold m3 bolts in 3d prints | 1 | $6.09 | https://www.amazon.co.uk/Threaded-Internal-Fasteners-Printing-Components/dp/B0GMQ5G9XD/ | Amazon |
