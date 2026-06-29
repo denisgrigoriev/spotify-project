@@ -1,7 +1,12 @@
-#Spotify screen project.
+# Spotify screen project.
+
 In this project i will be using the spotify API to pull currently playing songs.
 to display these songs i will be using a 1.8" TFT display.
 and to skip, play, pause, or go back i would be using tactile switches.
+
+Cad work (V2)
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f3452d48-c3e1-41d2-bd52-4da5924bff29" />
+
 
 Wiring diagram:
 <img width="3024" height="4032" alt="IMG_4031" src="https://github.com/user-attachments/assets/a02b2b14-97c7-4183-b929-dde9aaef4c2b" />
@@ -17,5 +22,5 @@ Wiring diagram:
 Here is a photo from the coding process:
 ![code](https://raw.githubusercontent.com/denisgrigoriev/spotify-project/main/image.png)
 
-And Cad work:
+And Cad work (V1):
 ![Spotify CAD Design](https://raw.githubusercontent.com/denisgrigoriev/spotify-project/main/cad%20design.png)
